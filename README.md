@@ -33,4 +33,7 @@ int main(){
     return 0;
 }
 
+Output :- <br>
+![exp4](https://github.com/VandanGupte101727/CDS-experiment-4/blob/main/BITWISE.png)
+
 Conclusion:- in this experiment we learnt to use the bitwise operator in cpp <br>
