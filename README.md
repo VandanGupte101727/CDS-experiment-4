@@ -7,9 +7,10 @@ In C++, bitwise operators work with discrete bits of integral types. {&} (AND), 
 
 Code:-
 // Vandan Gupte 23070123147 ENTC B3 
-#include<iostream>
-using namespace std;
-int main(){
+
+    #include<iostream>
+    using namespace std;
+    int main(){
     int a,b,a1,a2,a3,a4,a5,a6;
 
     cout<<"Enter the value for A"<<endl;
